@@ -1,0 +1,11 @@
+course_title,description,curriculum
+"Introduction to Data Science","Learn the basics of data science, including data wrangling, exploratory data analysis, and machine learning.","Data Wrangling, Exploratory Data Analysis, Machine Learning Basics"
+"Python for Beginners","A comprehensive introduction to Python programming, covering variables, control structures, and functions.","Variables, Control Structures, Functions, Data Structures"
+"Machine Learning Fundamentals","Understand core machine learning algorithms, including linear regression, decision trees, and SVMs.","Linear Regression, Decision Trees, SVM, Evaluation Metrics"
+"Deep Learning with TensorFlow","Dive into deep learning using TensorFlow and Keras, covering neural networks, CNNs, and RNNs.","Neural Networks, CNN, RNN, TensorFlow Basics"
+"Statistics for Data Science","An in-depth guide to statistics used in data science, such as hypothesis testing, probability, and statistical modeling.","Hypothesis Testing, Probability, Statistical Modeling"
+"Data Visualization with Python","Learn how to visualize data using libraries like Matplotlib, Seaborn, and Plotly.","Matplotlib, Seaborn, Plotly, Interactive Visualizations"
+"SQL for Data Analysis","Master SQL for data analysis, focusing on querying databases, joins, and data aggregation.","SQL Basics, Joins, Aggregation, Database Optimization"
+"Natural Language Processing","Explore NLP techniques like tokenization, sentiment analysis, and text classification.","Tokenization, Sentiment Analysis, Text Classification, Word Embeddings"
+"Introduction to Big Data","Get started with big data tools and techniques, including Hadoop, Spark, and distributed computing.","Hadoop, Spark, Distributed Computing, Big Data Basics"
+"AI Ethics and Fairness","Study ethical considerations in AI, such as bias, fairness, and accountability in machine learning systems.","Bias in AI, Fairness, Accountability, Ethical Principles"
